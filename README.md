@@ -1,6 +1,6 @@
 # Medical-Imaging-Segmentation-AI
 
-AI-Driven Sacroiliitis Detection & Segmentation 🏥 🧠
+AI-Driven Sacroiliitis Detection & Segmentation 
 This project leverages State-of-the-Art (SOTA) Computer Vision to assist in the diagnosis of Sacroiliitis. Developed as part of a research initiative at the University of São Paulo (USP), the system uses the YOLO architecture implemented in PyTorch to identify and segment inflammatory lesions in medical imaging.
 
  Overview
